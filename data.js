@@ -9,6 +9,14 @@
 
 module.exports = [
    {
+    name: "spa.js",
+    github: "ameykshirsagar/spa.js",
+    tags: ["single", "page", "application","spa"],
+    description: "Create stateful single page application in HTML",
+    url: "https://github.com/ameykshirsagar/spa.js",
+    source: "https://raw.githubusercontent.com/ameykshirsagar/spa.js/master/spa.js"
+  },
+   {
     name: "xflagable",
     github: "javimosch/xflagable",
     tags: ["flag", "event", "promise"],
